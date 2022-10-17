@@ -11,7 +11,7 @@ Esse é um problema multilabel, ou seja, cada frase pode ser classificada em mai
 Foram utilizadas nesse projeto, técnicas de NLP, como TFIDF, diversos tipos de modelos sklearn e um modelo de Rede Neural utilizando Keras/Tensorflow
 A análise exploratório e todo o desenvolvimento pode ser encontrado no *dev-nlp-phrases.ipynb*
 
-A versão do python recomendada é a 3.9, versões divergentes podem ocasionar em incompatibilidade
+A versão do python recomendada é a 3.9, versões divergentes podem ocasionar em incompatibilidade com o modelo utilizado.
 
 Os requisitos deste repositório podem ser encontrados no arquivo *requirements.txt* e instalados utilizando:
 
