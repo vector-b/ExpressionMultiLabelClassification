@@ -18,7 +18,7 @@ Os requisitos deste repositório podem ser encontrados no arquivo *requirements.
 <pre><code>pip3 install -r requirements.txt
 </code></pre>
 
-Para executar e testar as frases usando uma interface HTML foi utilizado o StreamLit, para executá-lo, execute na raiz do projeto o código:
+Para executar e testar as frases usando uma interface HTML foi utilizado o StreamLit configurado no arquivo *app.py*, para executá-lo, execute na raiz do projeto o código:
 
 <pre><code>streamlit run app.py
 </code></pre>

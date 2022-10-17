@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+joblib
+pickle
+re
+unidecode
+nltk
+keras
+tensorflow
+xgboost
+sklearn
+matplotlib
